@@ -24,7 +24,10 @@ The experimental setup utilized a standalone Spark cluster, and the PSOAANN mode
   <img width="800" alt="image" src="https://github.com/Profzubbyd/Big-data-One-class-classification/assets/46527701/4bd9516b-83b7-4069-bbdf-cb47d11eba5a">
 </p>
 
-_Figure 1: Mean MSE Convergence Plot_
+<p align="center">
+  Figure 1: Mean MSE Convergence Plot
+</p>
+
 
 ## VI. Conclusion
 
